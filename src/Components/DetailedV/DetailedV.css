@@ -1,0 +1,36 @@
+
+.detailed-view {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.detailed-view h2 {
+  font-size: 1.2rem; 
+  margin-bottom: 10px;
+}
+
+.detailed-view img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.detailed-view p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.detailed-view a {
+  display: inline-block;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.detailed-view a:hover {
+  text-decoration: underline;
+}
