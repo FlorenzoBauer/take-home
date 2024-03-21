@@ -1,6 +1,6 @@
 # Abstract
 
-This is a take home challenge, we were alloted a night to complete the mvp given to accomplish this. (https://mod4.turing.edu/projects/take_home/take_home_fe)[Link Here:]
+This is a take home challenge, we were alloted a night to complete the mvp given to accomplish this. [Link Here:](https://mod4.turing.edu/projects/take_home/take_home_fe)
 
 ### Preview
 <img width="1434" alt="Screenshot 2024-03-21 at 9 13 16 AM" src="https://github.com/FlorenzoBauer/take-home/assets/145882814/60f0b4e8-1e70-4ab0-a34c-3fba1722c767">
